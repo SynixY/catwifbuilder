@@ -317,7 +317,10 @@ export default function Homepage() {
                             </svg>
                           </div>
                         </a>
-                        <a href="#" className="button is-icon w-inline-block">
+                        <a
+                          href="https://t.me/catwifbuilder"
+                          className="button is-icon w-inline-block"
+                        >
                           <div>Telegram</div>
                           <div className="icon-embed-xxsmall w-embed">
                             <svg
@@ -405,7 +408,7 @@ export default function Homepage() {
                         </a>
                         <a
                           id="w-node-b8e8c4b5-7bb4-fe40-fff7-9f7329322540-4c47467a"
-                          href="#"
+                          href="https://t.me/catwifbuilder"
                           className="social-icons1_link w-inline-block"
                         >
                           <div className="icon-embed-medium w-embed">
